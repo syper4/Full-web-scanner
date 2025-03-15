@@ -1,0 +1,4 @@
+{
+    "target_ports": "80,443",
+    "scan_type": "SYN"
+}
